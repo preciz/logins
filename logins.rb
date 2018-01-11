@@ -10,3 +10,5 @@ logins = { # ugly on purpose
   2 => [rand_time, rand_time, rand_time, rand_time, rand_time, rand_time, rand_time, rand_time],
   3 => [rand_time, rand_time, rand_time, rand_time, rand_time, rand_time, rand_time, rand_time],
 }
+
+# Write your solution below. Keep above code intact.
