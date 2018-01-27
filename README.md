@@ -1,7 +1,7 @@
 This is a small ruby exercise.
 
-In the `logins.rb` there is a persons array with [id, name],
-and you have a logins hash with the keys as the ids of the persons.
+In the `logins.rb` there is a people array with [id, name],
+and you have a logins hash with the keys as the ids of the people.
 
 Your goal is to print a nested hash on the screen where you count logins per year for each person.
 
